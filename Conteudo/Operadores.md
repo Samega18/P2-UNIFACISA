@@ -55,3 +55,16 @@ Or| II | res = a II b; (Valor de "res" é true)
 Operação | Operador | Exemplo Java
 ---|---|---
 if-else| ? : | boolean deMaior = idade >= 18 ? true : false; (Valor de "deMaior" é true)
+
+
+## Operadores de atribuição
+
+Operação | Operador | Exemplo Java
+---|---|---
+Atribuição| = | int idade = 18; (Valor de "idade" é 18)
+Atribuição do mesmo + Valor| += | idade += 32; (Valor de "idade" é 50)
+Atribuição do mesmo - Valor| -= | idade -= 10; (Valor de "idade" é 40)
+Atribuição do mesmo / Valor| /= | idade /= 2; (Valor de "idade" é 20)
+Atribução do mesmo * Valor| *= | idade *= 3; (Valor de "idade" é 60)
+Atribuição do mesmo % Valor| %= | idade %= 54; (Valor de "idade" é 6) 
+Atribuição do mesmo ^ Valor| ^= | idade ^= 2; (Valor de "idade" é 36)
