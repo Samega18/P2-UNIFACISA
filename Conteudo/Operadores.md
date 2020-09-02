@@ -47,3 +47,11 @@ Operação | Operador | Exemplo Java
 ---|---|---
 And| && | boolean res = a && b; (Valor de "res" é false)
 Or| II | res = a II b; (Valor de "res" é true)
+
+## Operador ternário
+
+**int idade = 19;**
+
+Operação | Operador | Exemplo Java
+---|---|---
+if-else| ? : | boolean deMaior = idade >= 18 ? true : false; (Valor de "deMaior" é true)
