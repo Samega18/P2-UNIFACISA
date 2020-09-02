@@ -14,7 +14,7 @@ Resto| % | a = a % 3 (Valor de "a" é 1)
 
 ## Operadores Unários
 
-int b = 19
+**int b = 19**
 
 Operação | Operador | Exemplo Java
 ---|---|---
