@@ -10,5 +10,4 @@ Essas estruturas são: if-else if-else / switch-case
 
 A estrutura condicional If-Else permita ao programa verificar se alguma situação é verdadeira ou falsa. Se(if) for true, executa uma ação, se não(else)(false) executa outra. Em java o resultante da expressão tem que ser no tipo boolean, pois o java não converte null ou inteiros como 1 ou 0 para true ou false.
 
-
-
+Obs: Se o comando que fica após a condição possuir apenas uma linha, as chaves '{ (código) }' não são necessárias; Porém se tiver mais de uma linha, elas são obrigatórias.
