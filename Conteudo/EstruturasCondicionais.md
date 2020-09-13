@@ -14,3 +14,18 @@ A estrutura condicional 'Else If' permite adicionar uma nova condição ao siste
 
 Obs: Se o comando que fica após a condição possuir apenas uma linha, as chaves '{ (código) }' não são necessárias; Porém se tiver mais de uma linha, elas são obrigatórias.
 
+```java
+
+int 
+
+```
+
+### Switch-case
+
+A estrutura condicional 'Switch-case' é mais restrita que a 'If-else' pelo fato que só pode ser usado com o operador '==', sendo assim, não é permitido usar nenhum outro operador de comparação e nem operador lógico. Não tem como usar algum valor do tipo Float ou Double, apenas de inteiros ou string. Caso a variável não atenda nenhum dos casos da condicional, você pode usar o 'default', que executa algo caso nada seja 'true'.
+
+```java
+
+int 
+
+```
