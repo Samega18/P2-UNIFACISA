@@ -26,6 +26,24 @@ A estrutura condicional 'Switch-case' é mais restrita que a 'If-else' pelo fato
 
 ```java
 
-int 
+int valor = 0;
+
+switch(valor){
+  
+  case 1:
+    System.out.println("É o valor 1");
+    break;
+  
+  case 2:
+    System.out.println("É o valor 2");
+    break;
+    
+  case 3:
+    System.out.println("É o valor 3");
+    break;
+  
+  default:
+    System.out.println("Não é o valor 1, 2 e 3");
+}
 
 ```
