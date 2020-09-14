@@ -16,7 +16,19 @@ Obs: Se o comando que fica após a condição possuir apenas uma linha, as chave
 
 ```java
 
-int 
+int hora = 8;
+
+if(hora >= 8 && hora < 9)
+  System.out.println("1ª aula de Inglês II");
+  
+else if(hora >= 8 && hora < 10)
+  System.out.println("2ª aula de Inglês II");
+ 
+else if(hora >= 10 && hora < 11)
+  System.out.println("1ª aula de Programação II");
+  
+else if(hora >= 10 && hora < 12)
+  System.out.println("1ª aula de Programação II");
 
 ```
 
