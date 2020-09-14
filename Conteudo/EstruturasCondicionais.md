@@ -27,8 +27,8 @@ else if(hora >= 8 && hora < 10)
 else if(hora >= 10 && hora < 11)
   System.out.println("1ª aula de Programação II");
   
-else if(hora >= 10 && hora < 12)
-  System.out.println("1ª aula de Programação II");
+else
+  System.out.println("2ª aula de Programação II");
 
 ```
 
