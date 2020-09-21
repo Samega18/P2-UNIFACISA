@@ -38,3 +38,13 @@ Nesse exemplo, a variável "valor" vai ser 10 no final do programa.
 
 ### For
 
+A estrutura de repetição "For" é de uma forma compacta, no qual tem elementos de inicialização, condição e iteração reunidos na parte do cabeçalho. Em seguida vem o espaço para linha de código.
+
+```java
+
+for(int i = 0, i < 100, i++){
+  System.out.printf("Valor: %d", i);
+}
+
+```
+
